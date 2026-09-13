@@ -10,9 +10,10 @@ input{
     width: 200px;
 }
 .cart{
-    width: 100px;
-    border-radius: 20px;
-    background-color: gray;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: white;
 }
 
 .cart:hover{
@@ -32,7 +33,7 @@ input{
 
 .welcome-video{
     border: 2px solid black;
-    border-radius: 40%;
+    
 }
 
 .card{
@@ -74,7 +75,7 @@ a:active{
     border-bottom: none;
     border-top: none;
     border-radius:  50%;
-    width: 100px;
+    width: 200px;
 }
 
 .logo:hover{
@@ -115,6 +116,7 @@ a:active{
 
 span{
     text-decoration: line-through;
+    color: white !important;
 }
 
 .sub-word{
@@ -123,12 +125,12 @@ span{
 }
 
 .product-image{
-    border: 10px solid black;
+    border: 5px solid black;
     border-top: 5px solid black;
     border-bottom: 5px solid black;
     border-radius: 30%;
-    width: 90%;
-    height: 150px;
+    width: 250px;
+    height: 200px;
 }
 
 .subscribe{
@@ -192,7 +194,8 @@ button{
 }
 
 .aimg{
-    border: 5px solid gray;
+    border: 5px solid black;
+    border-radius: 20px;
 }
 
 .members{
@@ -259,3 +262,10 @@ img{
     border: 5px solid black;
 }
 
+.news{
+    font-size: 30px;
+}
+
+.available{
+    font-size: 30px;
+}
