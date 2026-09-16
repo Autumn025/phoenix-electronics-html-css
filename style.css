@@ -169,6 +169,10 @@ footer{
 button{
     background-color: white;
 }
+button:hover{
+    background-color: black;
+    color: white;
+}
 
 
 .specs{
@@ -249,12 +253,22 @@ button{
     
 }
 
+.checkoutbtn:hover{
+    background-color: black;
+    color: white;
+}
+
 .icart{
     width: 40px;
 }
 
 .chbtn{
     background-color: white;
+}
+
+.chbtn:hover{
+    background-color: black;
+    color: white;
 }
 
 img{
@@ -284,5 +298,4 @@ textarea{
     border: 3px solid black;
     width: 300px;
 }
-
 
