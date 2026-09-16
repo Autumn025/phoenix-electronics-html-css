@@ -167,7 +167,7 @@ footer{
 }
 
 button{
-    background-color: gray;
+    background-color: white;
 }
 
 
@@ -242,8 +242,8 @@ button{
 }
 
 .checkoutbtn{
-    background-color: black;
-    color: gray;
+    background-color: white;
+    color: black;
     font-weight: bold;
     font-size: 15px;
     
@@ -269,3 +269,20 @@ img{
 .available{
     font-size: 30px;
 }
+
+.check{
+    border-style: double;
+    box-shadow: 50px black;
+}
+
+input{
+    border: 3px solid black;
+    width: 300px;
+}
+
+textarea{
+    border: 3px solid black;
+    width: 300px;
+}
+
+
